@@ -11,7 +11,7 @@ Front-end технології. Лабораторна робота №2
 git clone https://github.com/lokay1071/FET_lab2.git
 ```
 
-4. Перейти у папку проєкту:
+2. Перейти у папку проєкту:
 ```
 cd FET_lab2
 ```
